@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidExampleChapter3</string>
+    <string name="subject1">1、你了解Windows操作系统吗？</string>
+    <string name="subject2">2、你交了解编程语言吗？</string>
+    <string name="subject3">3、你知道计算机中的基本进制是什么吗？</string>
+    <string name="subject1_opt1">A、精通</string>
+    <string name="subject1_opt2">B、一般</string>
+    <string name="subject1_opt3">C、了解</string>
+    <string name="subject2_opt1">A、精通各种语言</string>
+    <string name="subject2_opt2">B、了解C语言</string>
+    <string name="subject2_opt3">C、只会说汉语</string>
+    <string name="subject3_opt1">A、二进制</string>
+    <string name="subject3_opt2">B、十进制</string>
+    <string name="subject3_opt3">C、十六进制</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
